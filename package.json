@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@ant-design/icons": "^6.0.0",
+    "antd": "^5.26.6",
+    "framer-motion": "^12.23.9",
+    "leaflet.heat": "^0.2.0",
+    "react-map-gl": "^8.0.4",
+    "tailwindcss": "^4.1.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}

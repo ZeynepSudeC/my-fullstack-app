@@ -1,0 +1,11 @@
+.floating-panel {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 1000;
+  width: 270px;
+  background: rgba(30, 30, 30, 0.97);
+  color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
